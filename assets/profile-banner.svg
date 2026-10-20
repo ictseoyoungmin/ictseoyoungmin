@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Youngmin Seo. Machine Learning Research and Engineering Systems.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1422"/>
+      <stop offset="0.58" stop-color="#0e1c2c"/>
+      <stop offset="1" stop-color="#0a1320"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#72d4bd"/>
+      <stop offset="0.55" stop-color="#6a9eb9"/>
+      <stop offset="1" stop-color="#e2a97c"/>
+    </linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#2a7673" stop-opacity="0.40"/><stop offset="1" stop-color="#2a7673" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#8ab0c2" stroke-opacity="0.065" stroke-width="1"/>
+    </pattern>
+    <clipPath id="inside"><rect width="1280" height="360" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#inside)">
+    <rect width="1280" height="360" fill="url(#bg)"/>
+    <rect width="1280" height="360" fill="url(#grid)"/>
+    <circle cx="1020" cy="170" r="315" fill="url(#glow)"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M720 245L798 245L856 188L943 188L1000 137L1092 137L1142 88L1256 88" stroke="#7fd0be" stroke-opacity="0.25" stroke-width="1.5"/>
+      <path d="M750 291L853 291L914 228L982 228L1046 181L1143 181L1195 230L1280 230" stroke="#9cbbce" stroke-opacity="0.20" stroke-width="1.5"/>
+      <path d="M777 100L869 100L926 148L1002 148L1058 96L1148 96L1199 47L1280 47" stroke="#dcb48e" stroke-opacity="0.25" stroke-width="1.5"/>
+      <circle cx="1028" cy="184" r="125" stroke="#79bdb8" stroke-opacity="0.11" stroke-width="1.3"/>
+      <circle cx="1028" cy="184" r="88" stroke="#79bdb8" stroke-opacity="0.12" stroke-width="1.3"/>
+      <path d="M923 184H1133M1028 79V289" stroke="#80bdc7" stroke-opacity="0.15" stroke-width="1"/>
+      <path d="M902 260L980 181L1050 217L1115 138L1169 170" stroke="url(#signal)" stroke-width="3" stroke-opacity="0.88"/>
+    </g>
+    <g>
+      <circle cx="902" cy="260" r="5.5" fill="#75d9bf"/>
+      <circle cx="980" cy="181" r="5.5" fill="#75d9bf"/>
+      <circle cx="1050" cy="217" r="5.5" fill="#a4c9d3"/>
+      <circle cx="1115" cy="138" r="5.5" fill="#e7ae84"/>
+      <circle cx="1169" cy="170" r="5.5" fill="#e7ae84"/>
+    </g>
+    <rect x="68" y="61" width="42" height="4" rx="2" fill="#6bd1b7"/>
+    <text x="123" y="70" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3.2" fill="#87b7bb">RESEARCH / ENGINEERING</text>
+    <text x="65" y="173" font-family="Arial, Helvetica, sans-serif" font-size="69" font-weight="700" letter-spacing="-1.7" fill="#f2f6f6">YOUNGMIN SEO</text>
+    <text x="68" y="226" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="400" fill="#b4c5d0">From learning algorithms to systems you can inspect.</text>
+    <path d="M68 267H573" stroke="#799baa" stroke-opacity="0.30" stroke-width="1"/>
+    <text x="68" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#91c6c2">MACHINE LEARNING</text>
+    <circle cx="278" cy="295" r="2.5" fill="#e2a97c"/>
+    <text x="300" y="300" font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#91c6c2">AGENT SYSTEMS</text>
+    <rect x="0.5" y="0.5" width="1279" height="359" rx="17.5" fill="none" stroke="#bbd1dc" stroke-opacity="0.13"/>
+  </g>
+</svg>
