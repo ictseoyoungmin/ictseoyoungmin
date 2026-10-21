@@ -200,7 +200,9 @@ Strand-based hair geometry, layered guides, and interactive side-by-side compari
 Exploring spatial interaction, multi-view inspection, and iterative review workflows for 3D work.
 
 <p align="center">
-  <img src="assets/experiments/spatial-3d-workspace.webp" width="790" alt="Experimental browser-based 3D workspace with a mechanical bird model and multiple views" /><br/>
+  <a href="assets/experiments/spatial-3d-workspace.webp">
+    <img src="assets/experiments/spatial-3d-workspace.webp" width="790" alt="Full view of a spatial 3D studio with a mechanical bird, multi-view panels and surrounding workspace" />
+  </a><br/>
   <sub>Spatial 3D workspace</sub>
 </p>
 
